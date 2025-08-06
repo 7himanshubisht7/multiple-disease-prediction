@@ -30,7 +30,7 @@ if selected == 'Home':
         - **Stroke Prediction**
         \nMake sure to enter accurate data to get the best predictions.
     """)
-    st.image("health-medical-healthcare-health.jpg", use_column_width=True)
+    st.image("health-medical-healthcare-health.jpg", use_container_width=True)
 
 # Heart Disease Prediction Page
 if selected == 'Heart Disease Prediction':
